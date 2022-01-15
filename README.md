@@ -1,2 +1,2 @@
-# Nicholas_Portfolio
+# Nicholas Gecks-Preston
 Data Science Portfolio
